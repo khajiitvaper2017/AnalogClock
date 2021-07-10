@@ -9,7 +9,7 @@
 
 #include <FL/Fl.H>
 #include <FL/Fl_Window.H>
-#include "../../std_lib_facilities.h"
+#include "std_lib_facilities.h"
 #include "Point.h"
 
 namespace Graph_lib
